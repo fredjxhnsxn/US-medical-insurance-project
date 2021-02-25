@@ -153,5 +153,4 @@ Kathy.add_to_data()
 
 #Updating a patients records using their ID
 update_age(1338, 46)
-print(data)
 update_counts()
